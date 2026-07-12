@@ -23,6 +23,8 @@ apis:
       - type: Documentation
         url: https://www.ipvigilante.com/
 common:
+  - type: DomainSecurity
+    url: security/ip-vigilante-domain-security.yml
   - type: Website
     url: https://www.ipvigilante.com/
   - type: PublicAPIsListing

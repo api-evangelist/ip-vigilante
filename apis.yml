@@ -41,7 +41,6 @@ apis:
   - name: IP Vigilante
     description: "Free IP Geolocation API"
     humanURL: https://www.ipvigilante.com/
-    baseURL: https://www.ipvigilante.com/
     tags:
       - Geocoding
     properties:
